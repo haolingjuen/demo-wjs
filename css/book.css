@@ -1,0 +1,21 @@
+.wjs_book{
+	margin: 30px 5px 0;
+	border: solid 1px #CCCCCC;
+	height: 90px;
+	line-height: 90px;
+	overflow: hidden;
+}
+@media (min-width: 992px) {
+	.wjs_book > .container{
+		width: 900px;
+	}
+}
+.wjs_book .container{
+	width: 900px;
+}
+.wjs_book .container .pull-left span{
+	color: red;
+}
+.wjs_book .container .pull-left .wjs_book_link{
+	color: red;
+}

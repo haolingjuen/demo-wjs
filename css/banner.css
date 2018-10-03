@@ -1,0 +1,17 @@
+
+.wjs_banner .carousel-inner .item-img{
+	display: block;
+	height: 410px;
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}
+.wjs_banner .carousel-inner .item{
+	text-align: center;
+	width: 100%;
+}
+.wjs_banner .carousel-inner .smill{
+	display: block;
+	width: 100%;
+}

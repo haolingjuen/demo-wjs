@@ -1,0 +1,37 @@
+ 
+ .wjs_nav{
+ 	border: solid 1px #C7C7CC;
+ 	background-color: white;
+ 	z-index: 10000;
+ 	width: 100%;
+ 	top: 0;
+ 	
+ }
+ .navbar-brand #title{
+     color: #e92322;
+ }
+ .wjs_nav .container{
+ 	height: 80px;
+ 	
+ }
+
+ #bs-example-navbar-collapse-1 li a{
+ 	height: 80px;
+ 	font-size: 14px;
+ 	line-height: 50px;
+    
+ }
+ #bs-example-navbar-collapse-1 .active{
+ 	 border-bottom: solid 4px red;
+ }
+ #bs-example-navbar-collapse-1 li:hover{
+ 	
+    border-bottom: solid 4px red;
+    background-color: white;
+    
+ }
+ .navbar-header a span{
+ 	font-size: 32px;
+    color: black;
+   
+ }
